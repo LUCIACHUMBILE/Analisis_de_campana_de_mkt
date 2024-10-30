@@ -1,9 +1,8 @@
-# Proyecto-Integrado
+# Análisis  de Éxito de Videojuegos para Campañas de Marketing
 
-Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
+Ice es una tienda online que vende videojuegos a nivel mundial. Este proyecto se centra en el análisis de datos históricos para identificar patrones de éxito en videojuegos, utilizando reseñas de usuarios y expertos, géneros, plataformas (como Xbox o PlayStation), y datos de ventas. El objetivo es determinar las características y factores clave que indican si un juego será exitoso, permitiendo así detectar proyectos prometedores y planificar campañas publicitarias efectivas.
 
-Delante de ti hay datos que se remontan a 2016. Imaginemos que es diciembre de 2016 y estás planeando una campaña para 2017.
+Nos encontramos en diciembre de 2016 y estamos planificando una campaña publicitaria para el año 2017. Para ello, analizaremos los datos hasta 2016, pero el proyecto se puede adaptar a cualquier periodo de tiempo futuro.
 
-Lo importante es adquirir experiencia de trabajo con datos. Realmente no importa si estás pronosticando las ventas de 2017 en función de los datos de 2016 o las ventas de 2027 en función de los datos de 2026.
+Una de las variables clave en el dataset es la clasificación ESRB ("rating") de cada juego. El Entertainment Software Rating Board clasifica el contenido de los videojuegos en función de la edad recomendada, asignando categorías como "Adolescente" o "Adulto". Esta variable será crucial para segmentar y personalizar las campañas de marketing de acuerdo con el público objetivo.
 
-El dataset contiene una columna "rating" que almacena la clasificación ESRB de cada juego. El Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
